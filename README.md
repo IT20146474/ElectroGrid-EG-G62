@@ -1,7 +1,7 @@
 # ElectroGrid-EG-G62
 Programming Applications and Frameworks Group Project
 
-# Project Name - Cosmetics Manufacturing &Distributing Management System
+# Project Name - ElectroGrid (EG)
 # Batch - IT3030PAF-GroupProject-Y3.S1.WD.IT.01.01.62
 ### Group Leader - IT20145934-W.M.D.C.Wanasooriya
 ### Member 2 - IT20143886-Samarawickrama H.N.
