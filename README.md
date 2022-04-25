@@ -1,5 +1,5 @@
 # ElectroGrid-EG-G62
-Programming Applications and Frameworks Group Project
+# Programming Applications and Frameworks Group Project
 
 # Project Name - ElectroGrid (EG)
 # Batch - IT3030PAF-GroupProject-Y3.S1.WD.IT.01.01.62
